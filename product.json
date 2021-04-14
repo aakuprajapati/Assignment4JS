@@ -1,0 +1,65 @@
+{
+  "Head": "Top Weird Deals",
+  "active": true,
+  "topDeals": [
+    {
+      "name": "A cat butt tissue holder",
+      "price": 34.94,
+      "description": "Tissue holder as a form of cat",
+      "feature": [
+        "It is nice",
+        "Good for cat-lovers",
+        "Fits square tissue box"
+      ],
+      "image": "tissue-holder.jpg"
+    },
+
+    {
+      "name": "Baby Mops",
+      "price": 39.99,
+      "description": "Babies are not a trouble",
+      "feature": [
+        " Fun to watch baby cleaning",
+        "Works on any surface",
+        "The perfect gift for new-born"
+      ],
+      "image": "baby-mop.jpg"
+    },
+
+    {
+      "name": "A bacon-scented mustache",
+      "price": 4.85,
+      "description": "Moustache with the scent of Bacon",
+      "feature": [
+        "Perfect thing to wear while fishing",
+        "Made of lifelike synthetic hair",
+        "Designed to last"
+      ],
+      "image": "bacon-mustache.jpg"
+    },
+
+    {
+      "name": "Gardening claws",
+      "price": 9.49,
+      "description": "Multi Function Sturdy Claws Garden Gloves",
+      "feature": [
+        "Smooth Claws",
+        "Durable, Waterproof, Puncture Resistant",
+        "Digging, Planting, Grading and Raking"
+      ],
+      "image": "gardening-claws.jpg"
+    },
+
+    {
+      "name": "Nothing",
+      "price": 5.95,
+      "description": "For those who have everything",
+      "feature": [
+        "Awesomely empty",
+        "Spend money to get nothing",
+        "Good way to clear overflowing pockets"
+      ],
+      "image": "nothing.jpg"
+    }
+  ]
+}

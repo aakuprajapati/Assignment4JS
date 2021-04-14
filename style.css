@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://wallpaperaccess.com/full/1092587.jpg) !important;
+  background-position: center;
+  background-attachment: fixed !important;
+  background-size: cover;
+  background-repeat: no-repeat !important;
+  color: whitesmoke !important;
+  background-size: cover;
+}
+
+article {
+  padding: 35px;
+  text-align-last: center;
+  flex: auto;
+}
+
+img {
+  height: 150px;
+}
+
+li {
+  list-style-type: none;
+}
+
+marquee {
+  width: 80%;
+  margin-left: 10%;
+}
